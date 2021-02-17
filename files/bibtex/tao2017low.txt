@@ -1,0 +1,8 @@
+@inproceedings{tao2017low,
+  title={Low-light image enhancement using CNN and bright channel prior},
+  author={Tao, Li and Zhu, Chuang and Song, Jiawen and Lu, Tao and Jia, Huizhu and Xie, Xiaodong},
+  booktitle={2017 IEEE International Conference on Image Processing (ICIP)},
+  pages={3215--3219},
+  year={2017},
+  organization={IEEE}
+}

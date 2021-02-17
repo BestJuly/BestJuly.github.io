@@ -1,0 +1,6 @@
+@article{tao2020rethinking,
+  title={Rethinking motion representation: Residual frames with 3d convnets for better action recognition},
+  author={Tao, Li and Wang, Xueting and Yamasaki, Toshihiko},
+  journal={arXiv preprint arXiv:2001.05661},
+  year={2020}
+}

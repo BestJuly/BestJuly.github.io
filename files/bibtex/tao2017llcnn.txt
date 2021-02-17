@@ -1,0 +1,8 @@
+@inproceedings{tao2017llcnn,
+  title={LLCNN: A convolutional neural network for low-light image enhancement},
+  author={Tao, Li and Zhu, Chuang and Xiang, Guoqing and Li, Yuan and Jia, Huizhu and Xie, Xiaodong},
+  booktitle={2017 IEEE Visual Communications and Image Processing (VCIP)},
+  pages={1--4},
+  year={2017},
+  organization={IEEE}
+}

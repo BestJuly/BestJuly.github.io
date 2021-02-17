@@ -1,0 +1,7 @@
+@incollection{chen2019weakly,
+  title={Weakly supervised video summarization by hierarchical reinforcement learning},
+  author={Chen, Yiyan and Tao, Li and Wang, Xueting and Yamasaki, Toshihiko},
+  booktitle={Proceedings of the ACM Multimedia Asia},
+  pages={1--6},
+  year={2019}
+}
