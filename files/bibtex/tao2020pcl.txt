@@ -1,5 +1,5 @@
-@article{tao2020self,
-  title={Self-Supervised Video Representation Using Pretext-Contrastive Learning},
+@article{tao2020pretext,
+  title={Pretext-Contrastive Learning: Toward Good Practices in Self-supervised Video Representation Leaning},
   author={Tao, Li and Wang, Xueting and Yamasaki, Toshihiko},
   journal={arXiv preprint arXiv:2010.15464},
   year={2020}
