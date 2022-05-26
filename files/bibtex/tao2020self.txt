@@ -1,7 +1,10 @@
-@inproceedings{tao2020self,
-  title={Self-supervised video representation learning using inter-intra contrastive framework},
-  author={Tao, Li and Wang, Xueting and Yamasaki, Toshihiko},
-  booktitle={Proceedings of the 28th ACM International Conference on Multimedia},
-  pages={2193--2201},
-  year={2020}
+@ARTICLE{9674754,  
+  author={Tao, Li and Wang, Xueting and Yamasaki, Toshihiko},  
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},   
+  title={An Improved Inter-intra Contrastive Learning Framework on Self-supervised Video Representation},   
+  year={2022},  
+  volume={},  
+  number={},  
+  pages={1-1},  
+  doi={10.1109/TCSVT.2022.3141051}
 }
